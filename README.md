@@ -2,7 +2,13 @@
 
 ![image_dashboard](https://github.com/snehapradeep12/Sales-Insights-Dashboard/assets/69630009/61e9582f-e45d-4321-828d-e67bdd40fb17)
 
-#### Data Used - Sales Data for a Hardware Store company from the year 2017 to 2020 consisting of tables on sales transactions, sales markets, sales products, sales date, and customers.With the sales transactions table having over 1 Lakh rows on sales amount, sales qty, consumer code, etc.
+#### Objective
+
+To track the revenue, and product sales across different regions in India, meanwhile also understanding the underlying market trends, and other crucial factors influencing customer purchase behavior and overall sales performance.
+
+#### Approach
+
+Data Used - Sales Data for a Hardware Store company from the year 2017 to 2020 consisting of tables on sales transactions, sales markets, sales products, sales date, and customers.With the sales transactions table having over 1 Lakh rows on sales amount, sales qty, consumer code, etc.
 
 Data Transformation and Visualization - PowerBI
 
